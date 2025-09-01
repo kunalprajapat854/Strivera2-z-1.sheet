@@ -18,3 +18,6 @@ public class DuplicateArray {
     }
 
 }
+
+// time complexity of o(n) length of the array n
+// leetcode problem 217
