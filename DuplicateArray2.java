@@ -1,6 +1,7 @@
 import java.util.HashMap;
 
 public class DuplicateArray2 {
+
     public static void main(String[] args) {
         int nums[] = { 1, 0, 1, 1 };
         int k = 2;
